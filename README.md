@@ -13,7 +13,7 @@ A magnetic field \( $B$ \) is directed outward perpendicular to the plane of a c
 
 #### (a) Calculate the emf:
 
-The magnetic flux \( \Phi \) through the coil is:
+The magnetic flux \( $\Phi$ \) through the coil is:
 
 $$
 \Phi = B \cdot A = B \cdot \pi r^2 = B \cdot \pi (0.8m)^2 = B \cdot 2.01m^2

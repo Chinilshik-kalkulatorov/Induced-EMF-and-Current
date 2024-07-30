@@ -2,12 +2,12 @@
 
 **Question:** 
 
-A magnetic field \( B \) is directed outward perpendicular to the plane of a circular coil of radius \( r = 0.8m \). The field is cylindrically symmetrical with respect to the center of the coil, and its magnitude decays exponentially according to \( B = 2.5e^{-5t} \) where \( B \) is in Teslas and \( t \) is in seconds.
+A magnetic field \( $B$ \) is directed outward perpendicular to the plane of a circular coil of radius \( $r = 0.8m$ \). The field is cylindrically symmetrical with respect to the center of the coil, and its magnitude decays exponentially according to \( $B = 2.5e^{-5t}$ \) where \( $B$ \) is in Teslas and \( $t$ \) is in seconds.
 
 (a) Calculate the emf induced in the coil at the times ( $t_1 = 0s$ ), ( $t_2 = 3 \times 10^{-2}s$ ), and ( $t_3 = 2s$ ).
 .
 
-(b) Determine the current in the coil at these times if the resistance is \( 20Ω \).
+(b) Determine the current in the coil at these times if the resistance is \( $20Ω$ \).
 
 ### Solution:
 

@@ -1,7 +1,13 @@
 # Induced EMF and Current
-<code>\(\Phi = B \cdot A = B \cdot \pi r^2 = B \cdot \pi (0.8m)^2 = B \cdot 2.01m^2\)</code>
 
-( \(\Phi = B \cdot A = B \cdot \pi r^2 = B \cdot \pi (0.8m)^2 = B \cdot 2.01m^2\) )
+\[
+\Phi = B \cdot A = B \cdot \pi r^2 = B \cdot \pi (0.8m)^2 = B \cdot 2.01m^2
+\]
+
+$$
+\Phi = B \cdot A = B \cdot \pi r^2 = B \cdot \pi (0.8m)^2 = B \cdot 2.01m^2
+$$
+
 
 **Question:** 
 
